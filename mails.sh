@@ -6,6 +6,4 @@ then
 	echo "the memory reaches the thrushold value" | mail -s "disk usage" falgunigoswami123@gmail.com , sandeshdn1994@g
 	mail.com
 fi
-
-
-
+sagar modified
