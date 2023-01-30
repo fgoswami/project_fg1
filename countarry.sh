@@ -5,3 +5,4 @@ do
 	count=`expr $count + 1`
 done
 echo "lenght of array :$count"
+#
